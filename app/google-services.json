@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786039250203",
+    "project_id": "notifications-ee850",
+    "storage_bucket": "notifications-ee850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786039250203:android:90ab333b2e53d8fbc407be",
+        "android_client_info": {
+          "package_name": "com.estholon.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5UySOgJswTBwHwAeKyTFRBFpIzwvPus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786039250203:android:b78991743154b2d7c407be",
+        "android_client_info": {
+          "package_name": "com.estholon.notifications.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5UySOgJswTBwHwAeKyTFRBFpIzwvPus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

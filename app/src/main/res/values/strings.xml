@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Notifications</string>
+    <string name="channel_desc_promos" translatable="false">promos</string>
 </resources>
